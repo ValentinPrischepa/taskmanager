@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Web 1</title>
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+</head>
+
+<body >
+<h1 align="center">My Tasks:</h1>
+
+    <ul>
+        <#list tasks as task>
+            <li>${task}</li>
+        <#else>
+        <p>There are no tasks!!!!</p>
+        </#list>
+    </ul>
+<p><a href="addtask">Create New Task</a></p>
+</body>
+</html>
+

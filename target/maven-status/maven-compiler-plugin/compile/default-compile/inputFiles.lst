@@ -1,0 +1,10 @@
+/home/val/IdeaProjects/tasklist/src/main/java/entity/Task.java
+/home/val/IdeaProjects/tasklist/src/main/java/dao/jdbc/TaskRowMapper.java
+/home/val/IdeaProjects/tasklist/src/main/java/dao/jdbc/TaskDaoJDBC.java
+/home/val/IdeaProjects/tasklist/src/main/java/web/templater/PageGenerator.java
+/home/val/IdeaProjects/tasklist/src/main/java/web/AllTasksServlet.java
+/home/val/IdeaProjects/tasklist/src/main/java/service/TaskServiceImpl.java
+/home/val/IdeaProjects/tasklist/src/main/java/web/AddTaskServlet.java
+/home/val/IdeaProjects/tasklist/src/main/java/dao/TaskDao.java
+/home/val/IdeaProjects/tasklist/src/main/java/Starter.java
+/home/val/IdeaProjects/tasklist/src/main/java/service/TaskService.java
